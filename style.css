@@ -1,0 +1,40 @@
+/* Custom CSS styles */
+body {
+    font-family: 'Arial', sans-serif;
+    color: aliceblue;
+    padding: 0;
+    height: 100%;
+    background-image: url('bb.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    min-height: 100vh;
+    margin: 0;
+    
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+    background-color: #343a40;
+}
+
+.nav-text a:hover {
+    background-color: #c8daec;
+    color: #2e7bc7;
+    font-weight: 600;
+}
+
+.nav-text a:focus {
+    background-color: #c8daec;
+    color: #2e7bc7;
+    font-weight: 600;
+}
+
